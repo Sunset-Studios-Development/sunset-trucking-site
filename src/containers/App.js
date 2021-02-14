@@ -1,3 +1,4 @@
+import './reset.css'
 import BasicComponent from '../components/basicComponent';
 
 const App = () => {
