@@ -3,7 +3,7 @@ Project README
 
 Deps:
 
-- React Router: https://github.com/nfl/react-helmet (for routing pages)
+- React Router: https://reactrouter.com/web/guides/quick-start (for routing pages)
 
 - React Helmet: https://github.com/nfl/react-helmet (semantics for the head tag within jsx)
 
